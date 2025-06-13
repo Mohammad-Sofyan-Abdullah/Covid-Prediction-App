@@ -1,3 +1,13 @@
 Dataset
 mlruns
 covid_cnn_model.keras
+Report.docx
+Report.pdf
+vertopal.com_ML&BDA.pdf
+key_pair_ML.pem
+Final Report FA22-BDS-047.pdf
+covid-app_demo.tar
+Cover Page.pdf
+Cover Page.docx
+# Ignore Python cache files
+__pycache__/
